@@ -6,5 +6,5 @@ console.log("hello world");  //print hello world
 //but in recent days stand alone software(compiler, interpriter ) for exicution was introduced
 //runtime enviroment for js is node js and deno js. the main lead developed and founder is ryal dhal
 
-// in this tutorail i am using githun(codespace) as a runtime enviroment for js
+// in this tutorial i am using githun(codespace) as a runtime enviroment for js
 // it's good to delete codespace machine  because we have limited time in github (month)
