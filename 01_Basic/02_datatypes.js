@@ -26,7 +26,7 @@ console.log (3+3); console.log("hello world");
  
 const username = "priyanshu"; //string               
 let userid = 2334; // number
-let userWealthy = false //boolean                      //typeof
+let userWealthy = false //boolean                      //typeof to check the type of the datatype
 let userimg = null  //object
 let userno = undefined //undefined
 
