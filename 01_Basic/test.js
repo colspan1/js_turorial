@@ -3,8 +3,8 @@
 console.log("hello world");  //print hello world
 
 // in early  days of javascript we use to add javascript in html (<script>) to get result in browser because the software(compiler, interpriter) for execution was not easily accessable 
-//but in recent days stand alone software(compiler, interpriter ) for exicution was introduced
+//but in recent days stand alone software(compiler, interpriter ) for execution was introduced
 //runtime enviroment for js is node js and deno js. the main lead developed and founder is ryal dhal
 
 // in this tutorial i am using githun(codespace) as a runtime enviroment for js
-// it's good to delete codespace machine  because we have limited time in github (month)
+// it's good to delete codespace machine  because we have limited number of time in github (month)
