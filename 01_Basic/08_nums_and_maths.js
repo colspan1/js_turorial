@@ -21,3 +21,20 @@ console.log(pscore.toPrecision(5))
 // to access to localstring
 let loscore = 10000000
 console.log(loscore.toLocaleString("en-IN"))
+
+/********************************** Maths **********************/
+
+console.log(Math); // maths is a object and have properties
+console.log(Math.abs(-589))
+console.log(Math.round(1.9313))
+console.log(Math.ceil(4.37))
+console.log(Math.floor(4.99))
+console.log(Math.min(1,2,3,5,6,7))
+console.log(Math.max(1,2,3,5,6,7))
+
+console.log(Math.random()) //random number is between 0 and 1
+
+//dice game
+console.log((Math.random()*10)+1) //some time value is 0 so we add +1
+console.log(Math.floor(Math.random()*10)+1)
+
