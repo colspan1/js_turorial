@@ -11,7 +11,7 @@
 console.log (3+3); console.log("hello world");
 */
 
-// mozilla MDN is a good documentation for js and ecma org created standered for jf website ECMA Script
+// mozilla MDN is a good documentation for js and ecma org created standered for js (website ECMA Script)
 
 /******************* Dataypes ******************/  
 /* these are premitive datatype */

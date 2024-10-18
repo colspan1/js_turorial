@@ -4,7 +4,7 @@
 
 //now assign variable in memory (memory reserve)and give memory name and memory value
 
-const accountId = 3234 ;    // they are the type of variable whose name and value connot be change
+const accountId = 3234 ;    // they are the type of variable whose name and value cannot be change
 let accountName = "priyanshu" ;
 var accountclass = "general" ;
 accountBranch = "jaipur";  // javascipt is this much safe and secure language that we can reserved memory without giving a variable type but this method we should avoid
@@ -25,4 +25,4 @@ console.log(accountState);
 
 // let, const and var are keyword whose syntax is written in compiler when we put these variable in compiler then compiler have already syntax of these keyword now it will do the its work
 // we have one way to declare constant const and variable have let, var
-/* preferred not use var because in  issue in block scope and functional scope {} */
+/* preferred not use var because it creates issues with block scope and functional scope {} */

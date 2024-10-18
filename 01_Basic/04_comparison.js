@@ -8,7 +8,7 @@ console.log(1 < 2)
 console.log(1 >= 2)
 console.log(1 != 2)
 
-//comparison is int between different type of datatype
+//comparison  between different type of datatype
 console.log('2'>1) // javascript will automatically convert string into number for comparison
 
 console.log(null == 0)  // false

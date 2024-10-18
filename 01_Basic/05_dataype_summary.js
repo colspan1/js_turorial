@@ -31,12 +31,14 @@ let nigscore = 23432423n
  */
 
 let myarray = ["hell0", 3223, "world", null];
+
 let myobj = {
     name:"priyanshu", 
     class: 2,
     rollno: 23,
     school: "jmps",
 }
+
 let myfunction = function(){
     console.log(hello);
 }

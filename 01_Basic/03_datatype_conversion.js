@@ -71,7 +71,7 @@ console.log(str1+str2)  // hello world
 
 
 console.log("1" +2 ) // 12 because it will be treated as string
-console.log("1"+2+1) // 122 because it will be treated as string
+console.log("1"+2+1) // 121 because it will be treated as string
 console.log(2+1+"1") //31 beacause first it will treated as number then string
 
 
