@@ -13,7 +13,7 @@ console.log(Id);
 console.log(anotherId);
 
 
-/*************** Heap (npn primitive)*********************
+/*************** Heap (n0n primitive)*********************
 in this memory we get refrence or original 
  */
 // but in this name.email is changes when we make anothername.email value  apni because we get original value
@@ -21,6 +21,7 @@ let name = {
     email:"hello",
     class:2,
 }
+
 let anothername = name;
 
 anothername.email =="apni"

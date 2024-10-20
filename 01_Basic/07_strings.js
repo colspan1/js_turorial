@@ -14,6 +14,8 @@ console.log(`my name is ${name} and my age is ${age}.`) // this is called string
 // 2nd way to declear  string
 let nameone = new String("priyanshu");
 
+// it is 0,1,2,3,4... ch
+
 /************************************* Protoype ******************************************/
 // The prototype is a property available with all JavaScript .
 // to get to know string we need to know string prototype (method).

@@ -5,6 +5,8 @@ let score = 30;
 let nscore = new Number(2000);
 console.log(nscore);
 
+//it is 1,2 ,3,4 ch
+
 /******************* Prototype ****************************/
 
 // to access tostring
@@ -14,7 +16,7 @@ console.log(nscore.toString().length)
 // to access tofixed
 console.log(nscore.toFixed(2))
 
-// to access  precessionv value
+// to access  precession value
 let pscore = 23.23232;
 console.log(pscore.toPrecision(5))
 

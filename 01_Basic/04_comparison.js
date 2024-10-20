@@ -24,4 +24,4 @@ console.log(undefined < 0) //false
 // === strict check
 console.log(null === 0) //false
 
-// in typescript we have give datatype before enterining the memory value
+// in typescript we have to give datatype before enterining the memory value
